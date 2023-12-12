@@ -1,0 +1,6 @@
+List of projects that i plan to build in near future as I find some time. 
+1. Image Manipulation - edit an image using code. open an image, select one color and replace it with another color. - level it up and build something near to mirrorlab. 
+2. Dockered C2 full stack - a DB , a cache layer, a nginx web server , a js front end, a backend api etc. - containerized full stack application. 
+3. build and oAUTH2 auth server/service using oAUTH specifcicaiton,  pkce auth - make sure it is oidc complaint - oAUTH2 docs security that happens when you authorize with a source. use jsonwebtoken, jwt tokens 
+4. sudoko solver - solves and improves efficiency - checks for more than one solution and check for no soluition 
+5. pull data from internet - eg from tweets from twitter using twitter apito pull tweets - pull concurrently for various ahstags and handles 
